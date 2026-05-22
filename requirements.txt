@@ -1,0 +1,6 @@
+aiogram==3.7.0
+python-dotenv==1.0.1
+aiosqlite==0.20.0
+phonenumberslite==8.13.40
+sqlalchemy==2.0.32
+alembic==1.13.2
