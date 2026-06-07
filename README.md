@@ -6,7 +6,7 @@
 
 ## 🚀 Демо-бот
 
-**Живой бот:** [@Randusnam_bot]([https://t.me/твой_ник_бота](https://t.me/Randusnam_bot))
+**Живой бот:** [@Randusnam_bot](https://t.me/Randusnam_bot)
 
 Можешь прямо сейчас протестировать функционал.
 
