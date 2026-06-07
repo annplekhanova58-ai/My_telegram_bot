@@ -38,7 +38,7 @@
 ├── config.py
 ├── database.py
 ├── requirements.txt
-├── .env.example
+├── .env
 ├── data/
 │   └── texts.py
 ├── handlers/
