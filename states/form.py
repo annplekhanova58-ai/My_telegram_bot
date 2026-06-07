@@ -4,3 +4,4 @@ class Form(StatesGroup):
     name = State()
     phone = State()
     comment = State()
+    consent = State()
