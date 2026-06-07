@@ -3,6 +3,9 @@
 Современный Telegram-бот для сбора заявок с многошаговой формой, валидацией данных и удобным интерфейсом.
 
 ![Главное меню](screenshots/menu.png)
+<img src="screenshots/menu.png" alt="Главное меню">
+<img src="screenshots/message.png" alt="Сообщение бота">
+<img src="screenshots/admin_notification.png" alt="Уведомление админу">
 
 ## 🚀 Демо-бот
 
